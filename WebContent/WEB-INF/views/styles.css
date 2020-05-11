@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	background-color: blue;
+}
+
+p {
+	margin-left: 99px;
+	background-color: orange;
+	font-family: fantasy;
+	font-size: 50px !important;
+}
+
+.jumbotron {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	width: 1025px;
+}
+
+.jumbotron .container {
+	max-width: 100%;
+}
